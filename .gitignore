@@ -1,0 +1,10 @@
+.vs
+
+*.DotSettings
+
+Nugets/
+
+[Bb]in
+[Oo]bj
+.idea
+*.user
